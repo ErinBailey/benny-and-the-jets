@@ -10,7 +10,7 @@ class Welcome extends React.Component {
         </div>
         <div className='container'>
           <div className='jumbotron'>
-            <h1 className='header'>This app will eventually be about Benny!</h1>
+            <h1 className='header'>This app will eventually be about Benny!!</h1>
           </div>
         </div>
       </div>
